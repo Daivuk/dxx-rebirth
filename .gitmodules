@@ -1,0 +1,9 @@
+[submodule "thirdparty/SDL"]
+	path = thirdparty/SDL
+	url = https://github.com/SDL-mirror/SDL.git
+[submodule "thirdparty/physfs"]
+	path = thirdparty/physfs
+	url = https://github.com/criptych/physfs.git
+[submodule "thirdparty/stb"]
+	path = thirdparty/stb
+	url = https://github.com/nothings/stb.git

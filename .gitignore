@@ -52,3 +52,6 @@ xcuserdata
 # PyCharm generated files #
 ###########################
 .idea
+
+# Most people target this directory for their build
+build/
